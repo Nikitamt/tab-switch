@@ -3,9 +3,8 @@
 Our layout should contain: a class containing tabs(.info-header), a class for tabs(.info-header-tab), a class containing the content of tabs(.info-tabcontent).
 
 Example:
-
-<pre>
-  <div class="info">
+```html
+<div class="info">
   <div class="info-header">
     <div class="info-header-tab">1</div>
     <div class="info-header-tab">2</div>
@@ -25,5 +24,5 @@ Example:
     Content
   </div>
  </div>
-</pre>
+
 
